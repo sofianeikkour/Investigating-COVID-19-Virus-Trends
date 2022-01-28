@@ -1,7 +1,7 @@
 # Investigating-COVID-19-Virus-Trends
 
 ### **Context:**
-In this project, we will analyze a dataset related to COVID-19 to investigate the virus trends. Luckily, several organizations have shared many datasets allowing the conduction of several kinds of analysis in order to understand this pandemic.
+In this project, we analyzed a dataset related to COVID-19 to investigate the virus trends. Luckily, several organizations have shared many datasets allowing the conduction of several kinds of analysis in order to understand this pandemic.
 
 ### **Objective:**
 The purpose of this project is to identify which countries have had the highest number of positive cases against the number of tests.
